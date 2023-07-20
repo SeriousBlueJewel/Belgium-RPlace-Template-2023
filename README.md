@@ -2,7 +2,11 @@
  
 It use this [templateManager](https://github.com/osuplace/templateManager) made by osuplace.
 
-### Usage instructions:
+1. Usage instruction
+2. How to create an images
+    1. Size of the image
+    2. Color use in R/Place
+## Usage instructions:
  * Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
  * Go to [link in /dist](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript
  * Once it's done reload R/Place and you would see this new button : 
@@ -20,7 +24,15 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
     
     ![screen 4](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen004.png?raw=true)
 
+## How to create an images
+### Size of the images
+
+The Size of the iomages depende of it's size.
+if the image is 30PX wide, they are going to take 30PX on the R/Place
+
 ### Color use in R/Place
+The R/Plcae have limited color, here is the color used in it.
+Convert the image you want in these color
 |COLOR|HEX|
 | ---- | --- |
 |RED|`#FF4500`|
@@ -30,4 +42,4 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 |BLUE|`#3690EA`|
 |PURPLE|`#B44AC0`|
 |BLACK|`#000000`|
-|WHITE|`#E9EBED`| ?? SUS
+|WHITE|`#E9EBED`| Need to verfy this !
