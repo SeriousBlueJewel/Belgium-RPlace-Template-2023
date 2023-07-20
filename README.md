@@ -22,6 +22,7 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 
 ### Color use in R/Place
 |COLOR|HEX|
+| ---- | --- |
 |RED|`#FF4500`|
 |ORANGE|`#FFA800`|
 |YELLOW|`#FFD635`|
