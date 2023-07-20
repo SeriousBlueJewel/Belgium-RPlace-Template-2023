@@ -3,20 +3,20 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
-            "name": "FLAG",
-            "sources": [
-                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/FLAG.png?raw=true"
-            ],
-            "x": 133,
-            "y": 133
-        },
-        {
             "name": "fp",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/fp.png?raw=true"
             ],
             "x": 134,
             "y": 372
+        },
+        {
+            "name": "FLAG",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/FLAG.png?raw=true"
+            ],
+            "x": 133,
+            "y": 133
         }
     ]
 }
