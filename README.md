@@ -7,10 +7,13 @@ Usage instructions:
 
    ![screen 1](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen001.png?raw=true)
  * Click on it and you will see this UI
- 
+
     ![screen 2](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen002.png?raw=true)
  * Put this link : https://raw.githubusercontent.com/AlphaGaming7780/Belgium-RPlace-Template-2023/main/Belgium%20RPlace%20Template%202023.json
     into the input box and click on "Always Load"
 
    ![screen 3](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen003.png?raw=true)
     
+ * And voilà you have a the template for everything we are going to add
+    
+    ![screen 4](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen004.png?raw=true)
