@@ -3,9 +3,9 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
-            "name": "TEST",
+            "name": "FLAG",
             "sources": [
-                "https://cdn.discordapp.com/attachments/643489233293803530/1131645682873286836/ab67616d0000b2735f3b7f4ac70be0a21f89fe1d.png"
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/FLAG.png?raw=true"
             ],
             "x": 0,
             "y": 0
