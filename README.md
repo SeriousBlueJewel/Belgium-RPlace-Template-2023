@@ -8,8 +8,8 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
     2. [Color use in R/Place](#color-use-in-rplace)
 ## Usage instructions:
  * Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
- * Go to [link in /dist](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript
- * Once it's done reload R/Place and you would see this new button : 
+ * Go to [link to the script](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript
+ * Once it's done reload R/Place (the page) and you would see this new button : 
 
    ![screen 1](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen001.png?raw=true)
  * Click on it and you will see this UI
@@ -27,8 +27,8 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 ## How to create an images
 ### Size of the images
 
-The Size of the iomages depende of it's size.
-if the image is 30PX wide, they are going to take 30PX on the R/Place
+The size of the images depends on their size. 
+If the image is 30PX wide, it will take up 30PX on the R/Place.
 
 ### Color use in R/Place
 The R/Plcae have limited color, here is the color used in it.
