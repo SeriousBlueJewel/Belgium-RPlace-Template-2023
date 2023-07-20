@@ -2,10 +2,10 @@
  
 It use this [templateManager](https://github.com/osuplace/templateManager) made by osuplace.
 
-1. Usage instruction
-2. How to create an images
-    1. Size of the image
-    2. Color use in R/Place
+1. [Usage instruction](#usage-instructions)
+2. [How to create an images](#how-to-create-an-images)
+    1. [Size of the image](#size-of-the-images)
+    2. [Color use in R/Place](#color-use-in-rplace)
 ## Usage instructions:
  * Install a monkey. We recommend that you use [Violentmonkey](https://violentmonkey.github.io/get-it/) but any other monkey should work too.
  * Go to [link in /dist](https://github.com/osuplace/templateManager/raw/main/dist/templateManager.user.js) to install the userscript
