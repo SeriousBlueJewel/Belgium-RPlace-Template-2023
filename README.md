@@ -42,4 +42,4 @@ Convert the image you want in these color
 |BLUE|`#3690EA`|
 |PURPLE|`#B44AC0`|
 |BLACK|`#000000`|
-|WHITE|`#E9EBED`| Need to verfy this !
+|WHITE|`#ffffff`|
