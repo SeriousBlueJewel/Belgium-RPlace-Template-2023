@@ -7,7 +7,7 @@ Usage instructions:
     [screen 1](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen001.png?raw=true)
  * Click on it and you will see this UI
     [screen 2](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen002.png?raw=true)
- * Put this link : https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Belgium%20RPlace%20Template%202023.json)
+ * Put this link : https://raw.githubusercontent.com/AlphaGaming7780/Belgium-RPlace-Template-2023/main/Belgium%20RPlace%20Template%202023.json
     into the input box and click on "Always Load"
     [screen 3](https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/Readme/screen003.png?raw=true)
     
