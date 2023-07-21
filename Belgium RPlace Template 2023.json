@@ -3,6 +3,14 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
+            "name": "Belgium cats",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/belgium-cats.png?raw=true"
+            ],
+            "x": 131,
+            "y": 332
+        },
+        {
             "name": "fp",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/fp.png?raw=true"
