@@ -29,6 +29,7 @@ It use this [templateManager](https://github.com/osuplace/templateManager) made 
 
 The size of the images depends on their size. 
 If the image is 30PX wide, it will take up 30PX on the R/Place.
+The flag is 33PX wide so be sure to be under this
 
 ### Color use in R/Place
 The R/Plcae have limited color, here is the color used in it.
