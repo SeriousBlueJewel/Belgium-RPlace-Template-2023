@@ -3,9 +3,9 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
-            "name": "Belgium cats",
+            "name": "Belgium cats\nMade by : mattbaraga",
             "sources": [
-                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/Belgium-cats/Images/2023/belgium-cats.png?raw=true"
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/belgium-cats.png?raw=true"
             ],
             "x": 136,
             "y": 332
