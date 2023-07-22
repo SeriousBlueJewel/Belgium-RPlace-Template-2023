@@ -10,7 +10,15 @@
             "x": 1812,
             "y": 641
         },
-         {
+        {
+            "name": "H3 | Made by : https://discord.gg/C8rFcHGZ",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/H3.png?raw=true"
+            ],
+            "x": 1241,
+            "y": 344
+        },
+        {
             "name": "Flemish Houses | Made by thisisbrol",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/FlemishHoos.png?raw=true"
