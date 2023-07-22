@@ -2,7 +2,15 @@
     "faction": "/r/belgium",
     "contact": "https://discord.gg/Belgium",
     "templates": [
-         {
+        {
+            "name": "Cute Little Boar | Remade by : thenr24 ",
+            "sources": [
+              "https://i.imgur.com/0tQBkZV.png"
+            ],
+            "x": 649,
+            "y": 314
+        },
+        {
             "name": "Eurostar | collab with UK & France",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/Train.png?raw=true"
