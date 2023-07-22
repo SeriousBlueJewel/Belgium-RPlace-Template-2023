@@ -2,6 +2,14 @@
     "faction": "/r/belgium",
     "contact": "https://discord.gg/Belgium",
     "templates": [
+         {
+            "name": "Dog |https://discord.gg/destiny",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/VPetterv-patch-1/Images/2023/dog_heart.png?raw=true"
+            ],
+            "x": 1810,
+            "y": 939
+        },
         {
             "name": "Nepal Flag | We are so sorry.",
             "sources": [
