@@ -3,17 +3,17 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
          {
-            "name": "Bike | r/fuckcars",
+            "name": "Bike | Made by : r/fuckcars",
             "sources": [
-                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/VPetterv-patch-1/Images/2023/transparantpixelbikecrop.png?raw=true"
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/transparantpixelbikecrop.png?raw=true"
             ],
             "x": 143,
             "y": 134
         },
          {
-            "name": "Dog |https://discord.gg/destiny",
+            "name": "Dog | Made by : https://discord.gg/destiny",
             "sources": [
-                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/VPetterv-patch-1/Images/2023/dog_heart.png?raw=true"
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/dog_heart.png?raw=true"
             ],
             "x": 1810,
             "y": 934
