@@ -3,6 +3,14 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
+            "name": "Place Quebec",
+            "sources": [
+              "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
+            ],
+            "x": 1453,
+            "y": 630
+        },
+        {
             "name": "Nepal Flag | We are so sorry.",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/Nepal.png?raw=true"
