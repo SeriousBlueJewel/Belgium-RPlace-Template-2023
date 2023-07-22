@@ -3,6 +3,14 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
+            "name": "H3 | Made by : https://discord.gg/C8rFcHGZ",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/H3_Belgian.png?raw=true"
+            ],
+            "x": 1809,
+            "y": 912
+        },
+        {
             "name": "Place Quebec",
             "sources": [
               "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
