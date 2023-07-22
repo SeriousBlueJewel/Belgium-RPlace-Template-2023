@@ -69,4 +69,4 @@ The template is define like this :
 The coordinate is really important
 The top left corner of the R/Place is the origine of the "world" the 0;0
 and the origine of the image is also the top left corner.
-But the top left corner is -500;-500 in the R/Place so you nedd to make a calcule to know the right location.
+But the top left corner is -1000;-500 in the R/Place so you nedd to make a calcule to know the right location.
