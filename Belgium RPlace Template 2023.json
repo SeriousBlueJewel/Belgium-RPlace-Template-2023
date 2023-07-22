@@ -2,6 +2,14 @@
     "faction": "/r/belgium",
     "contact": "https://discord.gg/Belgium",
     "templates": [
+         {
+            "name": "Eurostar | collab with UK & France",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/VPetterv-patch-1/Images/2023/Train.png?raw=true"
+            ],
+            "x": 604,
+            "y": 232
+        },
         {
             "name": "Meowkuza | Made by : https://discord.gg/meowkuza",
             "sources": [
