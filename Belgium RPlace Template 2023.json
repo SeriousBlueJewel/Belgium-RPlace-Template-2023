@@ -3,14 +3,6 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
-            "name": "A drink with the canadian | Made by : seriousbluejewel(resized it)",
-            "sources": [
-                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/Beer-with-canadian/Images/2023/beer with canadian.png?raw=true"
-            ],
-            "x": 1777,
-            "y": 692
-        },
-        {
             "name": "Place Quebec",
             "sources": [
               "https://github.com/mifayqc/OverlayPlaceQc/blob/main/png/rplace2023.png?raw=true"
