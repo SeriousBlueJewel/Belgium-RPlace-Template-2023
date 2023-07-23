@@ -1,5 +1,9 @@
 # Colaborator Instructions and thing to know
 
+READ THIS : https://docs.google.com/document/d/12WTiDcRo4P35zJvlgWX06MKVbitbDo3ehnF7mysFv4Y/edit?rm=minimal&pli=1
+
+
+
 1. [How it work](#1-how-it-work)
     1. [Files](#11-files)
     2. [The template file](#12-the-template-file)
