@@ -3,6 +3,14 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
+            "name": "Samson & gert | Made by : beamster123",
+            "sources": [
+            "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/samson_en_gert.png?raw=true"
+            ],
+            "x": 1825,
+            "y": 1513
+        },
+        {
             "name": "Tintin is rocket and the Flemish Houses | Made by : seriousbluejewel",
             "sources": [
             "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/Rocket+FlemsihHoos_2.png?raw=true"
