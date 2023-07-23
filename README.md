@@ -36,17 +36,23 @@ The R/Plcae have limited color, here is the color used in it.
 Convert the image you want in these color
 |COLOR|HEX|
 | ---- | --- |
+|DARK RED|`#BE0039`|
 |RED|`#FF4500`|
 |ORANGE|`#FFA800`|
 |YELLOW|`#FFD635`|
 |DARK GREEN|`#00A368`|
+|GREEN|`#00CC78`|
 |LIGHT GREEN|`#7EED56`|
+|DARK TURQUOISE|`#00756F`|
+|TURQUOISE|`#009EAA`|
 |DARK BLUE|`#2450A4`|
 |BLUE|`#3690EA`|
 |LIGHT BLUE|`#51E9F4`|
 |DARK PURPLE|`#811E9F`|
 |PURPLE|`#B44AC0`|
+|PINK|`#FF3881`|
 |LIGHT PINK|`#FF99AA`|
+|DARK BROWN|`#6D482F`|
 |BROWN|`#9C6926`|
 |BLACK|`#000000`|
 |GRAY|`#898D90`|
