@@ -2,12 +2,20 @@
     "faction": "/r/belgium",
     "contact": "https://discord.gg/Belgium",
     "templates": [
+       {
+            "name": "Froggy Chair ACNH | Made by : UNKNOWN",
+            "sources": [
+            "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/froggys.png?raw=true"
+            ],
+            "x": 1857,
+            "y": 1228
+        },
         {
             "name": "Samson & gert | Made by : beamster123",
             "sources": [
             "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/samson_en_gert.png?raw=true"
             ],
-            "x": 1825,
+            "x": 1822,
             "y": 1513
         },
         {
