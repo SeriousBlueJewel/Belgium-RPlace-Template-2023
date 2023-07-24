@@ -3,6 +3,14 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
+            "name": "Luky Luke | Made by : https://discord.gg/jHdeCTyR OR r/HollowKnight",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/lucky_luke.png?raw=true"
+            ],
+            "x": 2298,
+            "y": 1516
+        },
+        {
             "name": "DreamNail | Made by : https://discord.gg/jHdeCTyR OR r/HollowKnight",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/DreamNail.png?raw=true"
