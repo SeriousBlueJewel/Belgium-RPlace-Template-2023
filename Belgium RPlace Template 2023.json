@@ -3,6 +3,22 @@
     "contact": "https://discord.gg/Belgium",
     "templates": [
         {
+            "name": "DreamNail | Made by : https://discord.gg/jHdeCTyR OR r/HollowKnight",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/DreamNail.png?raw=true"
+            ],
+            "x": 2295,
+            "y": 1538
+        },
+        {
+            "name": "Billards Ball | Made by : antodb",
+            "sources": [
+                "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/Billards_ball.png?raw=true"
+            ],
+            "x": 1147,
+            "y": 708
+        },
+        {
             "name": "Lambik | Made by : UNKNOW",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/lambik.png?raw=true"
@@ -10,7 +26,7 @@
             "x": 2344,
             "y": 1558
         },
-       {
+        {
             "name": "Froggy Chair ACNH | Made by : seriousbluejewel AND Krikienoid",
             "sources": [
                 "https://github.com/AlphaGaming7780/Belgium-RPlace-Template-2023/blob/main/Images/2023/froggys.png?raw=true"
